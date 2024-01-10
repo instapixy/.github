@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Welcome to InstaPixy
+
+India's first Hyperlocal Influencer Discovery Platform!
+
 <!--
 
 **Here are some ideas to get you started:**
