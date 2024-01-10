@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Welcome to InstaPixy
+Welcome to **InstaPixy**
 
 India's first Hyperlocal Influencer Discovery Platform!
 
